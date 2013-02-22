@@ -3,7 +3,7 @@ layout: post
 title: MySQL Tips
 description: "mysql tips"
 category: 
-tags: []
+tags: [mysql]
 ---
 {% include JB/setup %}
 
